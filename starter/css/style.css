@@ -21,3 +21,16 @@ h6 {
 p {
   margin: 0;
 }
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
